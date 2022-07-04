@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Type Script, Node JS, Python
 - 💻 I'm creating websites and Web Applications with
   - [WordPress](https://github.com/WordPress/WordPress)
-  - [Laravel]([https://github.com/WordPress/WordPress](https://github.com/laravel/laravel))
+  - [Laravel](https://github.com/laravel/laravel)
   - [Vue.js](https://github.com/vuejs/vue)
   - [Node.JS](https://github.com/nodejs/node)
   - [Bootstrap](https://github.com/twbs/bootstrap)
