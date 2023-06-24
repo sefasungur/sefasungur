@@ -12,7 +12,7 @@
   - [Vue.js](https://github.com/vuejs/vue)
   - [Node.JS](https://github.com/nodejs/node)
   - [Bootstrap](https://github.com/twbs/bootstrap)
-- 🌏 I'm currently living in [Ankara, Turkey](https://www.google.com/maps/search/Ankara)
+- 🌏 I'm currently living in [Düzce, Turkey](https://www.google.com/maps/search/Düzce)
 - 📫 How to reach me: 
   - [Facebook](https://facebook.com/sungursefa)
   - [Twitter](https://twitter.com/sfsngr)
